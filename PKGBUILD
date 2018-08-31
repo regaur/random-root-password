@@ -3,7 +3,7 @@
 pkgname='random-root-password'
 pkgver=1.0
 pkgrel=1
-pkgdesc='Sets a random password for root and outputs it to stdout'
+pkgdesc='Sets a random password for root and prints it on stdout'
 packager='Jan Boelsche'
 arch=('any')
 license=('GPL')
